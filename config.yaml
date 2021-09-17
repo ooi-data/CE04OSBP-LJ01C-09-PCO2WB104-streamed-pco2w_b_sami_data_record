@@ -1,7 +1,8 @@
 assigness: []
 harvest_options:
+  goldcopy: true
   path: s3://ooi-data
-  refresh: false
+  refresh: true
   test: false
 instrument: CE04OSBP-LJ01C-09-PCO2WB104
 stream:
